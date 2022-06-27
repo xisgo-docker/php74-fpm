@@ -6,6 +6,7 @@ RUN apk add --no-cache --update \
             php7-ctype \
             php7-curl \
             php7-dom \
+            php7-exif \
             php7-fileinfo \
             php7-fpm \
             php7-gd \
